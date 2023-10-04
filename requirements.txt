@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cu117
+albumentations==0.5.2
+easydict==1.10
+einops==0.6.1
+gradio==3.39.0
+mmcv==1.7.1
+numpy==1.23.5
+pyyaml==6.0.1
+tensorboard==2.13.0
+timm==0.9.2
+torch==2.0.1
+torchvision==0.15.2
+tqdm==4.65.0
