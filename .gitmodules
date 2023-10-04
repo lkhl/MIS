@@ -1,0 +1,3 @@
+[submodule "mis/ops/pybind11"]
+	path = mis/ops/pybind11
+	url = https://github.com/pybind/pybind11.git
