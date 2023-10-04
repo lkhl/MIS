@@ -12,6 +12,12 @@ This is an official implementation for our ICCV'23 paper "Multi-granularity Inte
 
 ![](https://lkhl.github.io/MIS/static/images/method_2.png)
 
+## TODO
+
+◻ Upload pre-trained weight
+
+◻ Installation instruction for Windows
+
 ## Installation
 
 ### **Environment**
