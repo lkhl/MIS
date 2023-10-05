@@ -75,7 +75,7 @@ Please follow [RITM](https://github.com/SamsungLabs/ritm_interactive_segmentatio
 ### Evaluate
 
 ```shell
-apython evaluate_model.py NoBRS \
+python evaluate_model.py NoBRS \
 	--checkpoint /path/to/checkpoint \
 	--datasets GrabCut,Berkeley,SBD,DAVIS
 ```
